@@ -20,9 +20,15 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="application.h" />
+    <ClInclude Include="camera.h" />
+    <ClInclude Include="colorRGB.h" />
+    <ClInclude Include="ray.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="application.cpp" />
+    <ClCompile Include="camera.cpp" />
+    <ClCompile Include="colorRGB.cpp" />
+    <ClCompile Include="ray.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
